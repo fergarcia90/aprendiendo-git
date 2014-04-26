@@ -1,17 +1,17 @@
 git branch
-==========
-
 El comando branch te permite crear ramas de tu código, cambiarte y verlas.
 
 El parametro `-v` te muestra los branches locales
 ```
 git branch -v
 ```
+El parametro "-D" te permite borrar el branch en mension
 
 El parametro `-D` borra el branch en mención
 ```
 git branch -D <mi_branch>
 ```
+El parametro "-r" te muestra los branch remotos
 
 El parametro `-r` te muestra los branches remotos
 ```
